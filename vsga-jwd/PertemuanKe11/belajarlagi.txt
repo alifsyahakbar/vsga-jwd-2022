@@ -1,0 +1,25 @@
+Jl. Sultan Iskandar Muda No.29 5 3, RT.5 / RW.3, Pd. Pinang, 
+Kec. Kby. Lama, City of South Jakarta, Special Capital Region of Jakarta 12310,
+Indonesia
+
+Omadi Jaya07.40
+https://laravel.com/docs/9.x/testing
+cypress
+Omadi Jaya07.41
+https://laravel.com/docs/9.x/pint
+Omadi Jaya07.43
+https://github.com/features/actions
+Omadi Jaya08.44
+https://www.youtube.com/watch?v=_P2t0lCzU-Q&ab_channel=ProgrammerZamanNow
+Omadi Jaya09.24
+- konsep OOP
+- development cycle
+- unit test ( phpunit, cypress, dll)
+- linting
+Omadi Jaya09.25
+- github action / CICD
+
+
+
+31 Politeknik Jambi Junior Web Developer Muhammad Alif Syah Akbar150305899101-2252 Laki - Laki 6,28579E+12 alifsyah789@gmail.com
+

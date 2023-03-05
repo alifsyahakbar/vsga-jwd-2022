@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script>
+    var car = {
+      // properti
+      type: "Fiat",
+      model: "500",
+      color: "white",
+
+      // method
+      start: function() {
+        console.log("ini method start");
+      },
+      drive: function() {
+        console.log("ini method drive");
+      },
+      brake: function() {
+        console.log(" ini method brake");
+      },
+      stop: function() {
+        console.log("ini method stop");
+      }
+    };
+  </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

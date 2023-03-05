@@ -1,0 +1,41 @@
+#formLogin {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  display: block;
+  background-color: #f5f5f5;
+  padding: 40px 30px;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-control {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  width: 97%;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border: 1px solid #c4c4c4;
+}
+
+.btn-info {
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+  border: 1px solid #c4c4c4;
+  background-color: #0092d8;
+  color: white;
+}
+
+.alert {
+  display: block;
+  padding: 8px;
+  border-radius: 3px;
+  border: 0px solid #c4c4c4;
+  background-color: #ff7272;
+  color: white;
+  margin-bottom: 10px;
+}

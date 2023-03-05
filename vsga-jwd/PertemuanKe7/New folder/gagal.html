@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .bg {
+            background-color: greenyellow;
+        }
+    </style>
+</head>
+
+<body>
+
+    <ul>
+        <h2>PESANAN</h2>
+        <li id="1" onclick="capcin()">
+            Cappucino
+            <span>Rp 35000</span>
+        </li>
+        <li id="2" onclick="boba()">
+            Green Tea Latte
+            <span>Rp 40000</span>
+        </li>
+        <li id="3">
+            Fsih and Chips
+            <span>Rp 46000</span>
+        </li>
+        <li id="3">
+            Tuna Sandwich
+            <span>Rp 8000</span>
+        </li>
+        <li id="3">
+            Mineral Water
+            <span>Rp 50000</span>
+        </li>
+        <li id="3">
+            French Fries
+            <span>Rp 18000</span>
+        </li>
+        <div id="total">
+            Total :
+            <span id="hasil">Rp 0</span>
+        </div>
+        <h3 id="name"></h3>
+        <p id="location"></p>
+
+    </ul>
+
+
+    <script>
+        function capcin() {
+            var boba = document.getElementById('1');
+            var hasil = boba.classList.toggle("bg");
+            return hasil;
+        }
+    </script>
+
+</body>
+
+</html>
